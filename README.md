@@ -1,7 +1,5 @@
+# create by mr.dh0r1_45
 # 45spames
-# mrd_45
-Create by mr.dh0r1_45
-
 
 pkg upgrade && pkg update
 

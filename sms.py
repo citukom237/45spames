@@ -1205,9 +1205,9 @@ for i in range(int(jum)):
     time.sleep(80)
     h = requests.post("https://www.asakita.id/api/auth/register/otp",headers=headers,data=data).text
     if 'MOBILE' in h:
-        print("\033[32;32mnomor tersebut berhasik di spam")
+        print("\033[32;32mnomor tersebut berhasil di spam")
     else:
-        print("\033[31;31mnomor tersebut gagal di spam ")
+        print("\033[31;31mnomor tersebut gagal di spam")
 
 os.system('echo -e "\033[33;33m" ')
                               

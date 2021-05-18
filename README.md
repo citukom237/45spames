@@ -1,4 +1,4 @@
-# create by mr.dh0r1_45
+# spam sms by mr.dh0r1_45
 # 45spames
 
 pkg upgrade && pkg update
